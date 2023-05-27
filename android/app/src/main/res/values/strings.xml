@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mimo</string>
+    <string name="facebook_app_id">634450501161685</string>
+    <string name="fb_login_protocol_scheme">fb634450501161685</string>
+    <string name="facebook_client_token">8718a15f653d8baa2b75e3c3dbfeaa59</string>
+
+    <color name="com_facebook_button_background_color_focused_disabled">#3C5A99</color>
+    <color name="com_facebook_button_background_color_focused">#3C5A99</color>
+    <color name="com_facebook_button_border_color_focused">#3C5A99</color>
+</resources>

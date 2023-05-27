@@ -1,0 +1,33 @@
+COMANDOS Git-GitHub
+
+Se debe agregar al usuario desde GitHub - Luego se ejecuta
+desde el cmdgit
+
+git config --global user.email XXXXX@XXXX
+git config --global user.name XXXXXXXXX
+git config --global -l
+
+git clone URL_DEL_GIT
+Te solicitara aceptar
+
+git branch ==> VER TODAS LAS RAMAS
+git fetch --all  ==> OBTENER TODAS LAS RAMAS
+git status ==> STATUS
+git checkout -b XXXX ==> CREAR RAMA Y ME REDIRIGE AL MISMO
+git checkout XXXX ==> MOVERSE A UNA RAMA XXXX
+
+git add . ==> AGREGAR TODOS LOS ARCHIVOS A LA RAMA ACTUAL
+git commit -m "XXXX" ==> TEXTO PARA IDENTIFICAR EL COMMIT
+git push origin XXX ==> SUBIR A LA RAMA XXX
+git pull origin XXX ==> DESCARGAR A LA RAMA XXX LA VERSION ACTUAL
+git diff ==> OBSERVAR LOS CAMBIOS EN UN CIERTO ARCHIVO
+git log ==> OBSERVAR LOS COMMITS
+git log --oneline --decorate --all --graph ==> IGUAL AL GIT LOG
+git remote add origin <url> ==> Agregar repositorio remoto
+git remote -v ==> Muestra lista repositorios
+
+git tag ==> MUESTRA UNA LISTA DE TODOS LOS TAGS
+git tag -a <version> - m "esta es la version x"
+
+git merge XXX ==> UNE EL BRANCH ACTUAL CON EL ESPECIFICO
+git rm XXX ==> BORRA UN ARCHIVO DEL REPOSITORIO XXX

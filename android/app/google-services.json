@@ -1,0 +1,116 @@
+{
+  "project_info": {
+    "project_number": "810022200205",
+    "project_id": "mimo-3ef92",
+    "storage_bucket": "mimo-3ef92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810022200205:android:487502c7a562a95d0f53c4",
+        "android_client_info": {
+          "package_name": "com.deliverytaxi.mimo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810022200205-8etjnim9stmjbc3nul44k10tnvfr71at.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deliverytaxi.mimo",
+            "certificate_hash": "50cae2b62973abfa67a90fcb31c1734a9c02fd85"
+          }
+        },
+        {
+          "client_id": "810022200205-frjfqme68belqbpfhap2u95cvmdnms8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deliverytaxi.mimo",
+            "certificate_hash": "3a9f84144811d501f1e14bca4670d96409e84ea4"
+          }
+        },
+        {
+          "client_id": "810022200205-iu14bpvgun90i3m4t12d44l18br948mb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deliverytaxi.mimo",
+            "certificate_hash": "88c24f985f6908d36c324ff770400e44e9ad3cef"
+          }
+        },
+        {
+          "client_id": "810022200205-agcp546gibuj1oiftl8p5agdcfklf4gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPi-KdjaxKIR31_1Ty5ZwxkLTseUdaPnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810022200205-agcp546gibuj1oiftl8p5agdcfklf4gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810022200205:android:79e6eed217264af00f53c4",
+        "android_client_info": {
+          "package_name": "com.mimo.mimo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810022200205-6vh7nqmek3cll6j8mdu2jf70j78st8r5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mimo.mimo",
+            "certificate_hash": "3a9f84144811d501f1e14bca4670d96409e84ea4"
+          }
+        },
+        {
+          "client_id": "810022200205-9finhqj87uab3pmed27tl45ftf9f3tr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mimo.mimo",
+            "certificate_hash": "50cae2b62973abfa67a90fcb31c1734a9c02fd85"
+          }
+        },
+        {
+          "client_id": "810022200205-o9h1iej6pihbpt7ugtca4fdmiajdv4sq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mimo.mimo",
+            "certificate_hash": "88c24f985f6908d36c324ff770400e44e9ad3cef"
+          }
+        },
+        {
+          "client_id": "810022200205-agcp546gibuj1oiftl8p5agdcfklf4gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPi-KdjaxKIR31_1Ty5ZwxkLTseUdaPnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810022200205-agcp546gibuj1oiftl8p5agdcfklf4gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
